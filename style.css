@@ -6,6 +6,7 @@
     font-family: "Inter", sans-serif;
     text-decoration: none;
     box-sizing: border-box;
+    overflow-x: hidden;
   }
   body{
     height: 100vh;
